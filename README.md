@@ -23,3 +23,7 @@ Simple blog website to grasp <strong>EJS</strong> coding experience.
 - Adding database ✅
 - Deploying the web application
 - Writing blogs 😁
+
+<hr>
+
+If you like this project, please consider giving it a star⭐! Would help me a lot!
