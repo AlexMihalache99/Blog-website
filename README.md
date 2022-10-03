@@ -11,6 +11,7 @@ Simple blog website to grasp <strong>EJS</strong> coding experience.
 - Node.js
 - Express.js
 - EJS - embedded JavaScript template
+- MongoDb database
 
 <h1> Libraries used </h1>
 
