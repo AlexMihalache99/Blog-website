@@ -19,6 +19,6 @@ Simple blog website to grasp <strong>EJS</strong> coding experience.
 
 <h1>What comes next?</h1>
 
-- Adding database
+- Adding database ✅
 - Deploying the web application
 - Writing blogs 😁
